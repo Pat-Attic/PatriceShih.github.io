@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Patrice Shih's Personal Website
 description: Just a place to place ideas!
 logo: /Fox_2.png
+show_downloads: true
